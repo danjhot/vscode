@@ -1,6 +1,7 @@
 {
-    "workbench.colorTheme": "Dracula",
+    "workbench.colorTheme": "Min Dark",
     "workbench.iconTheme": "symbols",
+    "workbench.tree.indent": 10,
     "symbols.hidesExplorerArrows": false,
     "editor.rulers": [
         80,
@@ -14,14 +15,8 @@
     "editor.minimap.enabled": false,
     "editor.scrollbar.horizontal": "hidden",
     "editor.scrollbar.vertical": "hidden",
-    "window.titleBarStyle": "native",
+    "window.titleBarStyle": "custom",
     "window.commandCenter": false,
     "workbench.layoutControl.enabled": false,
     "editor.formatOnSave": true,
-    "apc.electron": {
-        "titleBarStyle": "hidden"
-    },
-    "apc.stylesheet": {
-        ".title-label > h2": "display : none",
-    }
 }
